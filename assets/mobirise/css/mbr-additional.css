@@ -805,6 +805,15 @@ a:hover {
 #content3-e .mbr-section-subtitle {
   text-align: center;
 }
+#msg-box1-3b H1 {
+  color: #333333;
+}
+#pricing-table2-3c .plan-wrap.default .plan-title {
+  background: #6ca4cf;
+}
+#pricing-table2-3c .plan-wrap.favorite .plan-title {
+  background: #62cab1;
+}
 #features12-o .mbr-iconfont {
   color: #5aac98;
   border-color: #5aac98;
@@ -921,10 +930,6 @@ a:hover {
 #header2-37 .mbr-section-subtitle {
   color: #ffffff;
 }
-#header2-37 .mbr-iconfont {
-  color: undefined;
-  border-color: undefined;
-}
 #header2-37 .mbr-table-cell {
   vertical-align: middle;
 }
@@ -957,9 +962,6 @@ a:hover {
 }
 #form3-2g .heading {
   background: #447eaa;
-}
-#subscribe1-2h .form-control-label {
-  color: undefined;
 }
 #footer2-2k .footer-list {
   color: #dfd9ca;
